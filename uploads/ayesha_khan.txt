@@ -1,0 +1,54 @@
+Medical Case Report
+Patient ID: 712365
+Name: Ayesha Khan
+Age: 23
+Gender: Female
+Date of Report: 2025-05-10
+
+Chief Complaint:
+Patient presents with recurrent episodes of severe lower abdominal cramps, nausea, and vomiting occurring during her menstrual cycle for the past 6 months. The pain is debilitating and affects daily activities. OTC painkillers provide limited relief.
+
+Medical History:
+Family History:
+Mother had endometriosis; no other significant history.
+
+Personal Medical History:
+
+Regular menstrual cycles, lasting 5–6 days
+
+No history of STIs or pelvic infections
+
+No previous surgeries
+
+Lifestyle Factors:
+
+University student
+
+Vegetarian diet; low iron intake
+
+Reports stress during exams
+
+Medications:
+
+Ibuprofen (400 mg as needed during periods)
+
+Oral contraceptive pills (recently started 1 month ago)
+
+Recent Lab and Diagnostic Results:
+
+Pelvic Ultrasound: Normal uterus and ovaries; no cysts or fibroids
+
+CBC: Mild anemia (Hb 10.9 g/dL)
+
+Urinalysis: Normal
+
+Pregnancy Test: Negative
+
+Physical Examination Findings:
+
+Vital Signs: BP 112/74 mmHg, HR 76 bpm, BMI 21.0
+
+Abdominal Exam: Lower pelvic tenderness without rebound
+
+Pelvic Exam: Deferred due to patient discomfort
+

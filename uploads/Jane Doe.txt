@@ -1,0 +1,33 @@
+Patient Name: Jane Doe  
+Age: 27  
+Gender: Female  
+Date: 2025-05-10  
+
+Chief Complaint:  
+Patient reports frequent episodes of dizziness, shortness of breath, and chest discomfort over the past 3 weeks. Complains of persistent fatigue and occasional palpitations.
+
+Medical History:  
+- Anxiety and mild depression  
+- Occasional migraines  
+- No known allergies  
+
+Physical Examination:  
+- Blood Pressure: 110/70 mmHg  
+- Heart Rate: 92 bpm  
+- Respiratory Rate: 20 breaths/min  
+- Temperature: 98.4°F  
+- O2 Saturation: 97% on room air  
+
+Findings:  
+- Mild orthostatic hypotension observed  
+- Slight systolic murmur noted  
+- Patient appears anxious during consultation  
+
+Preliminary Tests Ordered:  
+- Complete Blood Count (CBC)  
+- Electrocardiogram (ECG)  
+- Echocardiogram  
+- Thyroid Function Test  
+
+Doctor's Note:  
+Consider possible mitral valve prolapse, anemia, or stress-related cardiac symptoms. Recommend evaluation by cardiologist and psychologist for further assessment.

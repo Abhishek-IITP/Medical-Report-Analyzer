@@ -1,0 +1,58 @@
+Medical Case Report
+Patient ID: 458902
+Name: David Patel
+Age: 41
+Gender: Male
+Date of Report: 2025-05-10
+
+Chief Complaint:
+Patient complains of progressive shortness of breath on exertion and a persistent dry cough for the past 2 months. Recently noted mild swelling in the ankles and occasional chest discomfort when climbing stairs. Denies fever, weight loss, or night sweats.
+
+Medical History:
+Family History:
+Father had coronary artery disease and underwent bypass surgery at age 62. Mother is hypertensive.
+
+Personal Medical History:
+
+Hypertension: Diagnosed 5 years ago, on medication
+
+Hyperlipidemia: Diagnosed 3 years ago
+
+Smoker: 1 pack/day for 15 years; quit 6 months ago
+
+Lifestyle Factors:
+
+Works as a school teacher
+
+Diet high in processed foods; limited physical activity
+
+Consumes alcohol socially
+
+Medications:
+
+Amlodipine 5 mg daily
+
+Atorvastatin 20 mg daily
+
+Recent Lab and Diagnostic Results:
+
+Chest X-ray: Mild cardiomegaly; no infiltrates
+
+ECG: Left ventricular hypertrophy
+
+Echocardiogram: Mild left ventricular dysfunction (EF ~48%)
+
+BNP Level: Elevated at 180 pg/mL
+
+Lipid Profile: Elevated LDL, low HDL
+
+Physical Examination Findings:
+
+Vital Signs: BP 138/88 mmHg, HR 92 bpm, RR 20/min, BMI 29.4
+
+Cardiovascular Exam: Slightly displaced apex beat; no murmurs
+
+Respiratory Exam: Bibasilar crackles
+
+Extremities: Mild bilateral ankle edema
+
